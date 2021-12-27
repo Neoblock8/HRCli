@@ -3748,7 +3748,7 @@ public class Client {
 
   private void run() {
     System.out.println(" ");
-    System.out.println("Welcome to Tron Wallet-Cli");
+    System.out.println("Welcome to HRNetwork Wallet-Cli");
     System.out.println("Please type one of the following commands to proceed.");
     System.out.println("Login, RegisterWallet or ImportWallet");
     System.out.println(" ");

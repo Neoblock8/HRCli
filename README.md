@@ -1,12 +1,12 @@
 
-Welcome to use the Wallet-CLI.
+Welcome to use the HRNetwork-Wallet-CLI.
 
 ## Get started
 
 ### Download wallet-cli
 
-    git clone https://github.com/Neoblock8/tron-chain-w001-cli.git
-
+    git clone https://github.com/Neoblock8/HRCli.git
+    
 ### Edit config.conf in src/main/resources
 
 ```
